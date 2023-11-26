@@ -2,7 +2,7 @@ function Home() {
     return(
         <>
         <h1>
-            Teste
+            Mãe, amo você! Se você me ama, dá uma risadinha.
         </h1>
         </>
     )
